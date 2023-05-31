@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TanishaMaurya &label=Profile%20views&color=0e75b6&style=flat" alt="tanishamaurya" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TanishaMaurya" alt="tanisha" /></a> </p>
+
 - 🌱 I’m currently learning **Web Development**
 
 - 💬 Ask me about **C,C++**
@@ -11,6 +11,8 @@
 - 📫 How to reach me **12tanishamaurya@gmail.com**
 
 - ⚡ Fun fact **I am Busy**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TanishaMaurya" alt="tanisha" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
